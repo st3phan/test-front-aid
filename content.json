@@ -1,1 +1,6 @@
-{}
+{
+  "custom-field": "Dit is test content",
+  "custom-object": {
+    "custom-line": "En nog een beetje content"
+  }
+}
